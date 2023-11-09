@@ -1,0 +1,51 @@
+#VK-NGRIP gas links from AICC2012 and Baumgartner
+
+228.7	1502.555	1000	#Baumgartner
+323.1	1517.1725	1000	#Baumgartner
+349.05	1548.825	1000	#Baumgartner
+596.45	2029.55		1000	#Baumgartner
+631.3	2087.035	1000	#Baumgartner
+840.15	2357.875	1000	#Baumgartner
+866.105	2378.225	1000	#Baumgartner
+909.835	2425.225	1000	#Baumgartner
+985.165	2475.475	1000	#Baumgartner
+1076.73	2542.985	1000	#Baumgartner
+1133.53	2586.575	1000	#Baumgartner
+1275.2	2696.725	1000	#Baumgartner
+1537.05	2944.125	1200	#Baumgartner
+#1480.8	2897.4	1200
+#1534.8	2944.7	1000
+1538	2946.4	1000
+1643.2	3038	1200
+1678.4	3049.8	1200			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
