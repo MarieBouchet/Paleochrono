@@ -2,7 +2,7 @@ paleochrono
 ===========
 
 A statistical and physical model to optimize chronologies of paleoclimatic sites.
-The folder is preserved here https://zenodo.org/doi/10.5281/zenodo.10091101. 
+The folder containing the Paleochrono code along with the AICC2023 experiment is preserved here https://zenodo.org/doi/10.5281/zenodo.10091101. 
 
 
 What this manual is and is not?
