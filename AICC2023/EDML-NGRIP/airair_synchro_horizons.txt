@@ -1,0 +1,45 @@
+#EDML-NGRIP gas links from Baumgartner et al (2014)
+
+#EDML depth [m]	NGRIP depth [m]	uncertainty [yr]
+
+703.585	1502.555		300	#Baumgartner
+717.59	1517.1725		300	#Baumgartner
+767.26	1548.825		300	#Baumgartner
+829.09	1629.7			300	#Baumgartner
+938.655	1693.505		300	#Baumgartner
+1005.915	1770.475	300	#Baumgartner
+1067.86		1827.375	300	#Baumgartner
+1155.795	1892.025	300	#Baumgartner
+1174.105	1912.375	300	#Baumgartner
+1233.395	1972.9		300	#Baumgartner
+1260.59		1995.45		300	#Baumgartner
+1289.165	2029.55		300	#Baumgartner
+1315.675	2050.975	300	#Baumgartner
+1337.845	2087.035	300	#Baumgartner
+1365.42		2104.9		300	#Baumgartner
+1377.42	2117.525	300	#Baumgartner
+1404.59	2141.175	300	#Baumgartner
+1439.345	2173.35	300	#Baumgartner
+1490.92	2236.025	300	#Baumgartner
+1512.59	2251.175	300	#Baumgartner
+1520.895	2269.875	300	#Baumgartner
+1601.6465	2357.875	300	#Baumgartner
+1627.528	2378.225	300	#Baumgartner
+1663.4765	2410.375	300	#Baumgartner
+1668.7065	2413.675	300	#Baumgartner
+1679.9815	2425.225	300	#Baumgartner
+1687.9765	2431.6		300	#Baumgartner
+1759.9815	2475.475	300	#Baumgartner
+1859.9815	2542.985	700	#Baumgartner
+1914.1465	2586.575	700	#Baumgartner
+2021.68		2692.3		700	#Baumgartner
+2027.005	2696.725	700	#Baumgartner
+2088.028	2746.725	700	#Baumgartner
+2196.005	2895.99625	700	#Baumgartner
+2201.1465	2899.965	700	#Baumgartner
+2231.48		2944.125	700	#Baumgartner
+2243.48		2962.76		700	#Baumgartner
+2260.1965	3010.005	700	#Baumgartner
+2328.025	3071.225	700	#Baumgartner
+
+
