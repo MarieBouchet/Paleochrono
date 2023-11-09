@@ -2,6 +2,7 @@ paleochrono
 ===========
 
 A statistical and physical model to optimize chronologies of paleoclimatic sites.
+The folder is preserved here https://zenodo.org/doi/10.5281/zenodo.10091101. 
 
 
 What this manual is and is not?
@@ -40,7 +41,9 @@ In the downloaded folder, you will find the following files:
 - AICC2023	: is an example experiment directory: it contains all the necessary
 numerical settings, prior information and observations for the different ice cores in the AICC2023
 dating experiment (Bouchet et al., 2023).
-
+- AICC2012-Hulu	: is an example experiment directory: it contains all the necessary
+numerical settings, prior information and observations for the different ice cores in the AICC2012
+dating experiment (Bazin et al., Veres et al., 2013) as well as for Hulu cave speleothems. 
 
 What do I need to run paleochrono?
 ----------------------------------
@@ -181,7 +184,7 @@ What is the structure of the general `parameters.yml` file?
 
 It contains the list of sites, the optimization method to be used and some settings for the figures.
 It is where you define the names of your sites.
-Have a look at the file `AICC2012-Hulu/parameters.yml`, it is commented.
+Have a look at the file `AICC2023/parameters.yml`, it is commented.
 
 
 What is the structure of a site `parameters.yml` file?
