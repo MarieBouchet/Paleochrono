@@ -1,0 +1,41 @@
+#TALDICE-EDML gas links from Baumgartner et al (2014)
+
+#TALDICE depth [m]	EDML depth [m]	uncertainty [yr]
+
+683.975	703.585	300	#Baumgartner
+695.97	717.59	300	#Baumgartner
+739.3	767.26	300	#Baumgartner
+784.675	829.09	300	#Baumgartner
+842.975	938.655	300	#Baumgartner
+875.975	1005.915	300	#Baumgartner
+905.665	1067.86		300	#Baumgartner
+942.265	1155.795	300	#Baumgartner
+954.905	1174.105	300	#Baumgartner
+989.485	1233.395	300	#Baumgartner
+1004.2925	1260.59	300	#Baumgartner
+1023.975	1289.165	300	#Baumgartner
+1041.975	1315.675	300	#Baumgartner
+1058.775	1337.845	300	#Baumgartner
+1076.775	1365.42	300	#Baumgartner
+1085.325	1377.42	300	#Baumgartner
+1098.595	1404.59	300	#Baumgartner
+1124.775	1439.345	300	#Baumgartner
+1169.295	1490.92		300	#Baumgartner
+1182.75		1512.59		300	#Baumgartner
+1192.495	1520.895	700	#Baumgartner
+1228.775	1601.6465	700	#Baumgartner
+1239.325	1627.528	700	#Baumgartner
+1255.415	1668.7065	700	#Baumgartner
+1264.36		1687.9765	700	#Baumgartner
+1286.775	1759.9815	700	#Baumgartner
+1306.985	1859.9815	700	#Baumgartner
+1312.98		1914.1465	700	#Baumgartner
+1333.48		2027.005	700	#Baumgartner
+1345.405	2088.028	700	#Baumgartner
+1368.9125	2201.1465	1500	#Baumgartner
+1376.485	2231.48		1500	#Baumgartner
+1401.975	2328.025	1500	#Baumgartner
+
+			
+
+
