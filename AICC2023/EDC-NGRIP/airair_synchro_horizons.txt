@@ -1,0 +1,14 @@
+#EDC-NGRIP gas links from AICC2012 (Veres et al., 2013) and Baumgartner et al. (2014)
+
+#EDC depth [m]	NGRIP [m]	uncertainty [yr]
+
+411.125 1502.555 300 #Baumgartner et al. 2014
+419.574 1517.173 300 #Baumgartner et al. 2014
+441.96 1548.825 300 #Baumgartner et al. 2014
+476.267 1629.7 300 #Baumgartner et al. 2014
+525.6 1693.505 300 #Baumgartner et al. 2014
+750.973	2088.36	800
+775.191	2115.88	800
+797.677	2149.07	800
+825.565	2185.24	800
+943.748	2377.68	800
