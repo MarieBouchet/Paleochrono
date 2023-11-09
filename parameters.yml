@@ -1,0 +1,20 @@
+list_sites: ['EDC','TALDICE','VK','EDML','NGRIP']
+
+opt_method: 'trf'  #trf, lm or none. lm is slightly faster. trf has an interactive output.
+jacobian: 'semi_adjoint' #automatic, numerical, semi_analytical, analytical or semi_adjoint.
+tr_solver: 'lsmr'  #'exact' (recommended for small system) or 'lsmr' (recommended for large systems)
+
+#Defines the colors for the graphs
+color_obs: 'r'       #color for the observations
+color_opt: 'k'       #color for the posterior scenario
+color_mod: 'b'       #color for the prior scenario
+color_ci: '0.8'      #color for the confidence intervals
+color_sigma: 'm'     #color for the uncertainty
+color_di: 'g'        #color for the dated intervals
+show_initial: False  #always put to False for now
+color_init: 'c'      #always put to 'c' for now
+show_figures: False  #whether to show or not the figures at the end of the run
+show_airlayerthick: False #whether to show the air layer thickness figure (buggy on anaconda)
+tol: 1.e-6          #Tolerance level for the termination of the optimization.
+age_unit: 'yr'
+age_unit_ref: 'B1950'
