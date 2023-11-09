@@ -1,0 +1,8 @@
+#Parameters specific to the EDC ice core
+age_top_prior: -55. #age at the top of the sequence
+age_top_sigma: 10. #Error on top age
+depth_grid: #depth grid for the age calculation
+    type: 'regular'
+    start: 0.
+    end: 3259.3
+    resolution: 0.55
