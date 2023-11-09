@@ -1,0 +1,63 @@
+#TALDICE-NGRIP gas links from Baumgartner et al. (2014)
+
+#TALDICE depth [m]	NGRIP depth [m]	uncertainty [yr]
+
+420	875	500
+553	1237	500
+683.975	1502.555	300	#Baumgartner
+695.97	1517.1725	300	#Baumgartner
+739.3	1548.825	300	#Baumgartner
+784.675	1629.7		300	#Baumgartner
+842.975	1693.505	300	#Baumgartner
+875.975	1770.475	300	#Baumgartner
+905.665	1827.375	300	#Baumgartner
+942.265	1892.025	300	#Baumgartner
+954.905	1912.375	300	#Baumgartner
+989.485		1972.9	300	#Baumgartner
+1004.2925	1995.45		300	#Baumgartner
+1023.975	2029.55		300	#Baumgartner
+1041.975	2050.975	300	#Baumgartner
+1058.775	2087.035	300	#Baumgartner
+1076.775	2104.9		300	#Baumgartner
+1085.325	2117.525	300	#Baumgartner
+1098.595	2141.175	300	#Baumgartner
+1124.775	2173.35		300	#Baumgartner
+1169.295	2236.025	300	#Baumgartner
+1182.75		2251.175	300	#Baumgartner
+1192.495	2269.875	700	#Baumgartner
+1228.775	2357.875	700	#Baumgartner
+1239.325	2378.225	700	#Baumgartner
+1255.415	2413.675	700	#Baumgartner
+1264.36		2431.6		700	#Baumgartner
+1286.775	2475.475	700	#Baumgartner
+1306.985	2542.985	700	#Baumgartner
+1312.98		2586.575	700	#Baumgartner
+1333.48		2696.725	700	#Baumgartner
+1345.405	2746.725	700	#Baumgartner
+1368.9125	2899.965	1500	#Baumgartner
+1376.485	2944.125	1500	#Baumgartner
+1401.975	3071.225	1500	#Baumgartner			
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
