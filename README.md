@@ -37,10 +37,9 @@ In the downloaded folder, you will find the following files:
 - paleochrono.py		: is the main paleochrono program that you will run.
 - pccfg.py, pcmath.py, pcsite.py and pcsitepair.py	: are python modules used by paleochrono.py
 - Clean.py		: is a python script to clean a dating experiment directory
-- AICC2012-Hulu		: is an example experiment directory: it contains all the necessary
-numerical settings, prior information and observations for the different ice cores in the AICC2012
-dating experiment and for the MSD and MSL Hulu speleothem. It takes <1 mn to run an a recent
-computer.
+- AICC2023	: is an example experiment directory: it contains all the necessary
+numerical settings, prior information and observations for the different ice cores in the AICC2023
+dating experiment (Bouchet et al., 2023).
 
 
 What do I need to run paleochrono?
@@ -77,9 +76,7 @@ run paleochron.py exp_directory/
 
 where `path-to-paleochrono` is the directory containing IceChrono and `exp_directory` is the name of
 your experiment directory. 
-The `AICC2012-Hulu` experiment directory is provided for you convenience.
-It is an AICC2012 + Hulu experiment.
-It takes <1 mn to run on a recent computer.
+The `AICC2023` experiment directory is provided for you convenience.
 
 
 What are the outputs of a run:
@@ -191,7 +188,7 @@ What is the structure of a site `parameters.yml` file?
 ---------------------------------------------------------
 
 It defines age at the top of the core, the unthinned depth at the top of the core, the age equation grid, the correction functions grids and the type of representation of the prior accu scenario (linear or staircase). You can also define other parameters that are used to defined the covariance matrices of the priors.
-Have a look at the files `AICC2012-Hulu/EDC/parameters.yml`, it is commented.
+Have a look at the files `AICC2023/EDC/parameters.yml`, it is commented.
 
 
 How to set up the `parameters-CovarianceObservations.py` file?
