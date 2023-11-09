@@ -1,0 +1,11 @@
+#Parameters specific to the TALDICE ice core
+age_top_prior: -54. #age at the top of the sequence
+age_top_sigma: 10. #Error on top age
+depth_grid: #depth grid for the age calculation
+    type: 'regular'
+    start: &depth_start 0.
+    end: &depth_end 1597.
+    resolution: 1.
+age_truncation:
+    inf: ~
+    sup: 250000.
