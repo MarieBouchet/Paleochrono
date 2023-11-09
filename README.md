@@ -30,8 +30,9 @@ How to download paleochrono?
 ----------------------------
 
 Go here:  
-https://github.com/parrenin/paleochrono/  
-and click on the donwload button.  
+https://github.com/MarieBouchet/Paleochrono/
+and click on the <>Code button to select the Download option.
+
 In the downloaded folder, you will find the following files:
 - README.md		: is the current documentation of paleochrono.
 - LICENCE		: is the paleochrono licence file.
@@ -41,9 +42,7 @@ In the downloaded folder, you will find the following files:
 - AICC2023	: is an example experiment directory: it contains all the necessary
 numerical settings, prior information and observations for the different ice cores in the AICC2023
 dating experiment (Bouchet et al., 2023).
-- AICC2012-Hulu	: is an example experiment directory: it contains all the necessary
-numerical settings, prior information and observations for the different ice cores in the AICC2012
-dating experiment (Bazin et al., Veres et al., 2013) as well as for Hulu cave speleothems. 
+
 
 What do I need to run paleochrono?
 ----------------------------------
