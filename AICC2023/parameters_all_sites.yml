@@ -27,7 +27,7 @@ corr_thinning_grid: #Depth grid for the thinning correction function
 #Parameters needed to define the covariance matrices as in AICC2012.
 lambda_thinning: 70
 lambda_deporate: 1000
-lambda_lid: 1000
+lambda_lid: 2000
 depth_unit: 'm'
 age_label: 'ice'
 age2_label: 'air'
