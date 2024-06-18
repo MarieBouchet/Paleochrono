@@ -15,7 +15,7 @@ corr_lid_grid: #Age grid for the LID correction function
     type: 'linear'
     start: -50.
     end: 999950.
-    nb_steps: 5000
+    nb_steps: 2000
     ratio: 0.1
 corr_thinning_grid: #Depth grid for the thinning correction function
     type: 'linear'
